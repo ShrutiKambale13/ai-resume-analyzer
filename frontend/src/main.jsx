@@ -16,7 +16,7 @@ import Login from "./components/Login";
 import Signup from "./components/Signup";
 import "./styles.css";
 
-const API = "http://localhost:5000/api";
+const API = "https://ai-resume-analyzer-backend-9dvz.onrender.com/api";
 
 function Score({ label, value }) {
   return (
